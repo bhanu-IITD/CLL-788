@@ -1,0 +1,5 @@
+Parameter,Closed-form ,Batch GD,Stochastic GD,LWR Stochastics GD,Ridge regression,Lasso Regression,ElasticNet Regression
+Intercept,-3.91508,-3.85900,-2.94564,-2.97736,-3.91166,-3.35780,-3.61462
+Slope,1.19303,1.18744,1.05436,1.02264,1.19262,1.12556,1.15666
+MSE,4.80244,4.47725,4.63044,4.80244,4.47697,4.51071,4.48678
+TimeTaken(s),0.00913,0.00845,0.00793,0.01130,0.00851,0.00899,0.01033
